@@ -3,7 +3,7 @@
 // 2) 최대한 사용을 지양해야함
 void main() {
   var name;
-  name = mallang;
+  name = 'mallang';
   name = 24;
 
   dynamic address;
